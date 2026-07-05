@@ -27,10 +27,10 @@ MySQL
 ![Dashboard](screenshots/DASHBOARD.png)
 
 ### Employee Management
-![Employee Management](screenshots/Emp management.png)
+![Employee Management](screenshots/Emp_management.png)
 
 ### Payroll Management
-![Payroll Management](screenshots/pr managment.png)
+![Payroll Management](screenshots/payroll_managment.png)
 
 ### Attendance Management
 ![Attendance Management](screenshots/attendance.png)
