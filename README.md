@@ -21,6 +21,21 @@ A desktop application developed using Java Swing and MySQL.
 
 ## Database
 MySQL
+## Screenshots
 
+### Dashboard
+![Dashboard](screenshots/DASHBOARD.png)
+
+### Employee Management
+![Employee Management](screenshots/Emp management.png)
+
+### Payroll Management
+![Payroll Management](screenshots/pr managment.png)
+
+### Attendance Management
+![Attendance Management](screenshots/attendance.png)
+
+### Payroll Report
+![Payroll Report](screenshots/report.png)
 ## Author
 Yuvi Shyju
